@@ -5,7 +5,7 @@ Ediz Bayraktar Profile
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/edizos_/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
@@ -42,4 +42,4 @@ hobbies:["Basketball", "Ski", "Rock Music", "Finding New Places"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edizos)](https://github.com/edizos/github-readme-stats)
